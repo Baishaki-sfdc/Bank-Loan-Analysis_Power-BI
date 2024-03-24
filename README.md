@@ -1,10 +1,10 @@
 # Bank-Loan-Analysis_Power-BI
 
-In the Bank Loa project, we aim to establish a comprehensive overview of our lending operations through meticulous tracking of Key Performance Indicators (KPIs). These KPIs serve as vital metrics in evaluating the performance and health of our loan portfolio. Our focus lies on the following key areas:
+<b>Objective<b>:To establish a comprehensive overview of our lending operations through meticulous tracking of Key Performance Indicators (KPIs). These KPIs serve as vital metrics in evaluating the performance and health of our loan portfolio. Our focus lies on the following key areas:
 
 Total Loan Applications: Our first priority is to accurately calculate the total number of loan applications received within a specified timeframe. Furthermore, we emphasize monitoring Month-to-Date (MTD) Loan Applications to ensure real-time awareness of application trends. Tracking changes Month-over-Month (MoM) provides valuable insights into the evolving demand for loans.
 
-Total Funded Amount: Understanding the total funds disbursed as loans is fundamental to our operations. We meticulously track the Total Funded Amount, paying close attention to Month-to-Date (MTD) disbursements. Analyzing Month-over-Month (MoM) changes in this metric allows us to adapt strategies effectively and optimize resource allocation.
+<b>Total Funded Amount<b>: Understanding the total funds disbursed as loans is fundamental to our operations. We meticulously track the Total Funded Amount, paying close attention to Month-to-Date (MTD) disbursements. Analyzing Month-over-Month (MoM) changes in this metric allows us to adapt strategies effectively and optimize resource allocation.
 
 Total Amount Received: Efficient management of cash flow and loan repayment is critical for the bank's financial health. We diligently track the Total Amount Received from borrowers, assessing Month-to-Date (MTD) receipts. Monitoring Month-over-Month (MoM) changes enables us to identify patterns and proactively address any deviations.
 
