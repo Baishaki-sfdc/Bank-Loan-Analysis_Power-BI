@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis_Power-BI
+# MDFC Bank-Loan-Analysis_Power-BI
 
 <b>Objective<b>:To establish a comprehensive overview of our lending operations through meticulous tracking of Key Performance Indicators (KPIs). These KPIs serve as vital metrics in evaluating the performance and health of our loan portfolio. Our focus lies on the following key areas:
 
